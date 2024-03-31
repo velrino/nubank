@@ -1,0 +1,11 @@
+{
+  "name": "nubank-code-challange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js",
+    "tests": "node tests/run.js"
+  }
+}
